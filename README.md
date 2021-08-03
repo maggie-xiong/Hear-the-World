@@ -1,4 +1,4 @@
-# heartheworld
+# Hear the World
 A wearable headpiece that better helps the visually impaired people detect their surroundings by using sound location.
 
 The headpiece will use sound waves to locate and detect where objects are. Not only will the visually impaired people be able to detect the distance of an object but they will also be able to determine the size of the object by the movement of their head. From the invention of the headpiece, we are hoping that visually impaired people can advance even more in their ability to "see" their surroundings by forming mental images in their minds of their environment, and be able to move more independently than before, without worrying about being harmed by unseen surroundings. We are hoping our headpiece headpiece can have an effect to our visually impaired family and friends, our community, and maybe even have our idea expanded to a more global picture.
